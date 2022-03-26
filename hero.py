@@ -272,8 +272,8 @@ jalan("\033[1;93m⌠⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌗⌡➲ 100%")
 jalan("\033[1;94m▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓") 
 print "\033[1;95m⊱⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⊰"
 
-CorrectUsername = "Black"
-CorrectPassword = "Tiger404"
+CorrectUsername = "Syafii"
+CorrectPassword = "Syafii1998"
 
 loop = 'true'
 while (loop == 'true'):
