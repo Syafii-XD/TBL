@@ -16,13 +16,13 @@ $ pip install rich
 
 $ pip install bs4
 
-$ git clone https://github.com/Syafii-XD/Drang
+$ git clone https://github.com/Syafii-XD/TBL
 
-$ cd Drang
+$ cd TBL
 
 $ git pull
 
-$ python drang.py
+$ python tirle.py
 
 $ PERINGATAN!!!
 
